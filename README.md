@@ -22,3 +22,12 @@ For the needs of the project, I wrote drivers for the e-ink display and the bmp2
 │       └── w_2in9_paint.c
 ```
 The IoT dashboard also uses the frozen library for JSON serialization and deserialization.
+
+# Photos
+![alt text](https://github.com/Cyberdom123/iot-dashboard/blob/main/imag/front.jpg)
+
+![alt text](https://github.com/Cyberdom123/iot-dashboard/blob/main/imag/pcb.jpg)
+
+# Schematic
+
+![alt text](https://github.com/Cyberdom123/iot-dashboard/blob/main/imag/schematic.png)
